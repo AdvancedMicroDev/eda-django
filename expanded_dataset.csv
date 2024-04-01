@@ -1,0 +1,501 @@
+id,name,price,quantity,category
+1,Product A,100,50,Electronics
+2,Product B,150,30,Apparel
+3,Product C,-200,20,Home & Kitchen
+4,Product D,120,45,Electronics
+5,Product E,180,25,Apparel
+6,Product F,220,15,Home & Kitchen
+7,Product G,90,60,Electronics
+8,Product H,130,40,Apparel
+9,Product I,190,35,Home & Kitchen
+10,Product J,110,55,Electronics
+11,Product K,160,28,Apparel
+12,Product L,210,18,Home & Kitchen
+13,Product M,95,58,Electronics
+14,Product N,140,38,Apparel
+15,Product O,170,22,Home & Kitchen
+16,Product Q,197,24,Apparel
+17,Product R,128,15,Home & Kitchen
+18,Product S,-61,73,Electronics
+19,Product T,193,62,Electronics
+20,Product U,157,12,Apparel
+21,Product V,67,43,Home & Kitchen
+22,Product W,157,81,Electronics
+23,Product X,233,64,Apparel
+24,Product Y,210,82,Electronics
+25,Product Z,95,47,Apparel
+26,Product A,220,48,Electronics
+27,Product B,83,21,Apparel
+28,Product C,138,60,Apparel
+29,Product D,147,76,Apparel
+30,Product E,148,80,Apparel
+31,Product F,175,21,Apparel
+32,Product G,176,63,Apparel
+33,Product H,87,83,Electronics
+34,Product I,230,32,Electronics
+35,Product J,205,10,Electronics
+36,Product K,-287,93,Apparel
+37,Product L,-231,39,Apparel
+38,Product M,68,52,Electronics
+39,Product N,138,100,Home & Kitchen
+40,Product O,289,34,Apparel
+41,Product P,290,50,Home & Kitchen
+42,Product Q,69,12,Home & Kitchen
+43,Product R,281,81,Electronics
+44,Product S,57,17,Apparel
+45,Product T,109,85,Home & Kitchen
+46,Product U,200,40,Home & Kitchen
+47,Product V,213,34,Home & Kitchen
+48,Product W,-165,73,Home & Kitchen
+49,Product X,53,11,Apparel
+50,Product Y,232,26,Apparel
+51,Product Z,280,72,Apparel
+52,Product A,193,12,Electronics
+53,Product B,289,73,Electronics
+54,Product C,255,76,Electronics
+55,Product D,139,83,Home & Kitchen
+56,Product E,80,68,Electronics
+57,Product F,170,86,Home & Kitchen
+58,Product G,100,18,Electronics
+59,Product H,214,82,Home & Kitchen
+60,Product I,174,71,Apparel
+61,Product J,-126,89,Home & Kitchen
+62,Product K,78,27,Home & Kitchen
+63,Product L,177,55,Apparel
+64,Product M,283,59,Home & Kitchen
+65,Product N,173,27,Apparel
+66,Product O,140,87,Apparel
+67,Product P,241,18,Home & Kitchen
+68,Product Q,-104,49,Apparel
+69,Product R,222,78,Home & Kitchen
+70,Product S,64,15,Apparel
+71,Product T,222,88,Apparel
+72,Product U,168,45,Home & Kitchen
+73,Product V,254,21,Home & Kitchen
+74,Product W,178,38,Home & Kitchen
+75,Product X,248,26,Home & Kitchen
+76,Product Y,141,16,Apparel
+77,Product Z,265,61,Home & Kitchen
+78,Product A,226,46,Apparel
+79,Product B,148,80,Apparel
+80,Product C,180,52,Home & Kitchen
+81,Product D,-93,68,Electronics
+82,Product E,175,82,Electronics
+83,Product F,272,74,Apparel
+84,Product G,199,35,Home & Kitchen
+85,Product H,149,98,Home & Kitchen
+86,Product I,132,18,Apparel
+87,Product J,293,43,Home & Kitchen
+88,Product K,81,15,Apparel
+89,Product L,89,17,Home & Kitchen
+90,Product M,292,98,Electronics
+91,Product N,207,67,Electronics
+92,Product O,278,31,Apparel
+93,Product P,160,63,Electronics
+94,Product Q,167,51,Electronics
+95,Product R,67,21,Home & Kitchen
+96,Product S,171,22,Electronics
+97,Product T,63,100,Home & Kitchen
+98,Product U,196,60,Electronics
+99,Product V,86,55,Home & Kitchen
+100,Product W,65,88,Electronics
+101,Product X,98,11,Home & Kitchen
+102,Product Y,293,26,Apparel
+103,Product Z,-233,32,Home & Kitchen
+104,Product A,120,72,Apparel
+105,Product B,155,43,Apparel
+106,Product C,142,97,Electronics
+107,Product D,120,66,Electronics
+108,Product E,203,30,Electronics
+109,Product F,57,73,Apparel
+110,Product G,-81,99,Apparel
+111,Product H,215,38,Electronics
+112,Product I,131,16,Electronics
+113,Product J,229,76,Electronics
+114,Product K,234,40,Home & Kitchen
+115,Product L,193,24,Apparel
+116,Product M,222,12,Electronics
+117,Product N,178,23,Electronics
+118,Product O,-135,59,Home & Kitchen
+119,Product P,80,96,Home & Kitchen
+120,Product Q,126,25,Home & Kitchen
+121,Product R,197,23,Home & Kitchen
+122,Product S,61,98,Apparel
+123,Product T,149,97,Apparel
+124,Product U,290,79,Home & Kitchen
+125,Product V,274,69,Apparel
+126,Product W,81,31,Home & Kitchen
+127,Product X,262,59,Apparel
+128,Product Y,251,52,Electronics
+129,Product Z,188,100,Home & Kitchen
+130,Product A,230,82,Electronics
+131,Product B,119,39,Home & Kitchen
+132,Product C,226,82,Home & Kitchen
+133,Product D,75,52,Home & Kitchen
+134,Product E,169,60,Home & Kitchen
+135,Product F,-167,22,Home & Kitchen
+136,Product G,123,56,Electronics
+137,Product H,51,83,Apparel
+138,Product I,177,65,Home & Kitchen
+139,Product J,52,54,Apparel
+140,Product K,-89,55,Home & Kitchen
+141,Product L,245,94,Home & Kitchen
+142,Product M,166,19,Home & Kitchen
+143,Product N,270,100,Electronics
+144,Product O,177,95,Electronics
+145,Product P,142,87,Apparel
+146,Product Q,56,66,Electronics
+147,Product R,97,13,Home & Kitchen
+148,Product S,179,23,Electronics
+149,Product T,285,77,Electronics
+150,Product U,216,34,Electronics
+151,Product V,163,99,Apparel
+152,Product W,140,20,Home & Kitchen
+153,Product X,258,30,Electronics
+154,Product Y,102,46,Home & Kitchen
+155,Product Z,-83,85,Home & Kitchen
+156,Product A,111,22,Apparel
+157,Product B,-216,28,Home & Kitchen
+158,Product C,126,60,Electronics
+159,Product D,94,38,Apparel
+160,Product E,55,19,Home & Kitchen
+161,Product F,212,77,Apparel
+162,Product G,192,23,Apparel
+163,Product H,121,39,Electronics
+164,Product I,174,84,Apparel
+165,Product J,217,87,Apparel
+166,Product K,159,75,Home & Kitchen
+167,Product L,52,97,Electronics
+168,Product M,187,31,Apparel
+169,Product N,131,62,Home & Kitchen
+170,Product O,88,73,Electronics
+171,Product P,274,100,Apparel
+172,Product Q,262,86,Electronics
+173,Product R,72,98,Electronics
+174,Product S,191,32,Electronics
+175,Product T,210,85,Apparel
+176,Product U,300,59,Electronics
+177,Product V,-164,41,Home & Kitchen
+178,Product W,72,35,Apparel
+179,Product X,212,53,Electronics
+180,Product Y,200,67,Apparel
+181,Product Z,93,14,Apparel
+182,Product A,-289,11,Electronics
+183,Product B,138,23,Home & Kitchen
+184,Product C,66,21,Home & Kitchen
+185,Product D,225,96,Home & Kitchen
+186,Product E,155,27,Apparel
+187,Product F,298,43,Home & Kitchen
+188,Product G,160,74,Home & Kitchen
+189,Product H,67,38,Electronics
+190,Product I,-210,57,Apparel
+191,Product J,55,42,Apparel
+192,Product K,183,10,Electronics
+193,Product L,252,77,Home & Kitchen
+194,Product M,84,94,Home & Kitchen
+195,Product N,53,11,Home & Kitchen
+196,Product O,268,74,Apparel
+197,Product P,299,73,Electronics
+198,Product Q,132,88,Home & Kitchen
+199,Product R,61,13,Home & Kitchen
+200,Product S,194,50,Home & Kitchen
+201,Product T,51,38,Home & Kitchen
+202,Product U,97,33,Electronics
+203,Product V,88,51,Home & Kitchen
+204,Product W,-249,17,Apparel
+205,Product X,106,17,Apparel
+206,Product Y,86,60,Home & Kitchen
+207,Product Z,137,28,Electronics
+208,Product A,108,68,Apparel
+209,Product B,86,53,Apparel
+210,Product C,220,49,Electronics
+211,Product D,-76,77,Home & Kitchen
+212,Product E,58,77,Apparel
+213,Product F,63,98,Apparel
+214,Product G,218,32,Electronics
+215,Product H,111,65,Electronics
+216,Product I,163,23,Electronics
+217,Product J,74,76,Electronics
+218,Product K,144,35,Apparel
+219,Product L,285,47,Electronics
+220,Product M,146,44,Electronics
+221,Product N,80,54,Home & Kitchen
+222,Product O,138,97,Electronics
+223,Product P,105,46,Home & Kitchen
+224,Product Q,193,84,Apparel
+225,Product R,183,32,Home & Kitchen
+226,Product S,101,19,Home & Kitchen
+227,Product T,-80,37,Apparel
+228,Product U,-230,55,Apparel
+229,Product V,186,17,Electronics
+230,Product W,285,74,Home & Kitchen
+231,Product X,55,65,Home & Kitchen
+232,Product Y,114,34,Home & Kitchen
+233,Product Z,185,36,Electronics
+234,Product A,-142,16,Electronics
+235,Product B,111,83,Home & Kitchen
+236,Product C,266,44,Apparel
+237,Product D,283,17,Home & Kitchen
+238,Product E,159,17,Home & Kitchen
+239,Product F,297,72,Home & Kitchen
+240,Product G,-166,77,Home & Kitchen
+241,Product H,171,57,Apparel
+242,Product I,97,90,Home & Kitchen
+243,Product J,113,56,Electronics
+244,Product K,68,21,Apparel
+245,Product L,-234,12,Apparel
+246,Product M,117,69,Electronics
+247,Product N,102,26,Apparel
+248,Product O,267,17,Apparel
+249,Product P,-149,74,Apparel
+250,Product Q,161,98,Apparel
+251,Product R,219,54,Apparel
+252,Product S,231,74,Apparel
+253,Product T,257,45,Electronics
+254,Product U,98,55,Home & Kitchen
+255,Product V,236,17,Apparel
+256,Product W,229,65,Home & Kitchen
+257,Product X,101,44,Apparel
+258,Product Y,94,90,Home & Kitchen
+259,Product Z,211,87,Home & Kitchen
+260,Product A,188,37,Electronics
+261,Product B,203,96,Apparel
+262,Product C,195,32,Home & Kitchen
+263,Product D,207,97,Apparel
+264,Product E,166,22,Home & Kitchen
+265,Product F,152,93,Home & Kitchen
+266,Product G,133,37,Apparel
+267,Product H,236,20,Electronics
+268,Product I,79,23,Home & Kitchen
+269,Product J,-126,65,Electronics
+270,Product K,51,66,Apparel
+271,Product L,281,68,Apparel
+272,Product M,157,35,Home & Kitchen
+273,Product N,91,88,Apparel
+274,Product O,113,48,Apparel
+275,Product P,215,14,Electronics
+276,Product Q,288,40,Electronics
+277,Product R,91,50,Electronics
+278,Product S,71,55,Electronics
+279,Product T,261,50,Electronics
+280,Product U,-254,34,Apparel
+281,Product V,87,83,Home & Kitchen
+282,Product W,95,20,Electronics
+283,Product X,123,67,Electronics
+284,Product Y,229,21,Electronics
+285,Product Z,68,41,Electronics
+286,Product A,-93,58,Electronics
+287,Product B,169,69,Electronics
+288,Product C,243,83,Home & Kitchen
+289,Product D,114,36,Home & Kitchen
+290,Product E,129,45,Home & Kitchen
+291,Product F,204,51,Apparel
+292,Product G,111,70,Electronics
+293,Product H,55,58,Apparel
+294,Product I,127,64,Home & Kitchen
+295,Product J,138,89,Apparel
+296,Product K,74,10,Home & Kitchen
+297,Product L,124,46,Apparel
+298,Product M,130,37,Apparel
+299,Product N,177,95,Home & Kitchen
+300,Product O,92,63,Home & Kitchen
+301,Product P,161,85,Home & Kitchen
+302,Product Q,-147,27,Electronics
+303,Product R,82,59,Home & Kitchen
+304,Product S,185,22,Electronics
+305,Product T,88,20,Electronics
+306,Product U,-243,94,Home & Kitchen
+307,Product V,180,46,Home & Kitchen
+308,Product W,-231,41,Home & Kitchen
+309,Product X,-270,49,Home & Kitchen
+310,Product Y,-298,70,Electronics
+311,Product Z,118,42,Home & Kitchen
+312,Product A,255,18,Home & Kitchen
+313,Product B,258,12,Home & Kitchen
+314,Product C,246,19,Apparel
+315,Product D,85,63,Apparel
+316,Product E,202,100,Home & Kitchen
+317,Product F,-294,49,Home & Kitchen
+318,Product G,297,63,Electronics
+319,Product H,80,31,Electronics
+320,Product I,-129,83,Apparel
+321,Product J,226,72,Electronics
+322,Product K,294,62,Home & Kitchen
+323,Product L,203,60,Home & Kitchen
+324,Product M,224,12,Home & Kitchen
+325,Product N,151,89,Apparel
+326,Product O,152,86,Apparel
+327,Product P,171,43,Apparel
+328,Product Q,57,21,Home & Kitchen
+329,Product R,293,92,Apparel
+330,Product S,189,61,Home & Kitchen
+331,Product T,115,69,Home & Kitchen
+332,Product U,202,17,Apparel
+333,Product V,98,40,Electronics
+334,Product W,-139,37,Home & Kitchen
+335,Product X,248,57,Apparel
+336,Product Y,112,56,Apparel
+337,Product Z,251,36,Electronics
+338,Product A,298,74,Electronics
+339,Product B,182,42,Electronics
+340,Product C,215,73,Apparel
+341,Product D,127,62,Home & Kitchen
+342,Product E,144,90,Electronics
+343,Product F,57,98,Apparel
+344,Product G,134,42,Home & Kitchen
+345,Product H,86,55,Apparel
+346,Product I,198,81,Home & Kitchen
+347,Product J,194,68,Electronics
+348,Product K,80,94,Home & Kitchen
+349,Product L,198,44,Home & Kitchen
+350,Product M,72,27,Electronics
+351,Product N,134,89,Electronics
+352,Product O,253,14,Electronics
+353,Product P,121,72,Apparel
+354,Product Q,237,42,Electronics
+355,Product R,-149,99,Electronics
+356,Product S,119,81,Electronics
+357,Product T,240,21,Apparel
+358,Product U,149,23,Home & Kitchen
+359,Product V,285,62,Electronics
+360,Product W,93,85,Electronics
+361,Product X,66,33,Electronics
+362,Product Y,149,29,Apparel
+363,Product Z,125,93,Electronics
+364,Product A,67,35,Apparel
+365,Product B,149,16,Home & Kitchen
+366,Product C,84,96,Home & Kitchen
+367,Product D,-248,74,Home & Kitchen
+368,Product E,142,50,Home & Kitchen
+369,Product F,204,40,Apparel
+370,Product G,176,44,Home & Kitchen
+371,Product H,137,92,Apparel
+372,Product I,195,88,Electronics
+373,Product J,108,12,Home & Kitchen
+374,Product K,190,36,Apparel
+375,Product L,216,44,Apparel
+376,Product M,151,78,Home & Kitchen
+377,Product N,281,49,Apparel
+378,Product O,98,36,Apparel
+379,Product P,110,49,Electronics
+380,Product Q,61,21,Apparel
+381,Product R,-147,52,Home & Kitchen
+382,Product S,98,76,Apparel
+383,Product T,55,41,Home & Kitchen
+384,Product U,173,70,Electronics
+385,Product V,268,87,Home & Kitchen
+386,Product W,53,43,Home & Kitchen
+387,Product X,163,89,Apparel
+388,Product Y,282,79,Home & Kitchen
+389,Product Z,77,33,Home & Kitchen
+390,Product A,123,59,Apparel
+391,Product B,-188,61,Electronics
+392,Product C,98,55,Apparel
+393,Product D,-237,80,Electronics
+394,Product E,293,12,Electronics
+395,Product F,147,66,Home & Kitchen
+396,Product G,234,38,Electronics
+397,Product H,106,83,Home & Kitchen
+398,Product I,255,51,Electronics
+399,Product J,261,75,Home & Kitchen
+400,Product K,213,14,Apparel
+401,Product L,260,94,Apparel
+402,Product M,261,72,Electronics
+403,Product N,105,18,Electronics
+404,Product O,297,31,Electronics
+405,Product P,95,65,Apparel
+406,Product Q,284,43,Apparel
+407,Product R,230,14,Apparel
+408,Product S,118,70,Apparel
+409,Product T,-142,14,Apparel
+410,Product U,-115,71,Home & Kitchen
+411,Product V,196,26,Electronics
+412,Product W,194,82,Home & Kitchen
+413,Product X,292,62,Electronics
+414,Product Y,213,63,Apparel
+415,Product Z,58,29,Electronics
+416,Product A,230,91,Apparel
+417,Product B,246,49,Electronics
+418,Product C,223,22,Electronics
+419,Product D,253,55,Home & Kitchen
+420,Product E,134,91,Home & Kitchen
+421,Product F,266,26,Apparel
+422,Product G,274,72,Home & Kitchen
+423,Product H,238,92,Home & Kitchen
+424,Product I,89,25,Electronics
+425,Product J,297,76,Home & Kitchen
+426,Product K,93,49,Apparel
+427,Product L,200,92,Apparel
+428,Product M,89,97,Electronics
+429,Product N,235,36,Home & Kitchen
+430,Product O,207,20,Home & Kitchen
+431,Product P,128,34,Home & Kitchen
+432,Product Q,286,12,Home & Kitchen
+433,Product R,82,60,Home & Kitchen
+434,Product S,168,69,Home & Kitchen
+435,Product T,208,92,Home & Kitchen
+436,Product U,160,96,Electronics
+437,Product V,246,52,Home & Kitchen
+438,Product W,-50,34,Home & Kitchen
+439,Product X,266,67,Apparel
+440,Product Y,225,87,Electronics
+441,Product Z,160,94,Electronics
+442,Product A,177,60,Apparel
+443,Product B,156,77,Apparel
+444,Product C,86,69,Apparel
+445,Product D,132,62,Apparel
+446,Product E,161,28,Home & Kitchen
+447,Product F,93,50,Home & Kitchen
+448,Product G,81,32,Apparel
+449,Product H,230,93,Electronics
+450,Product I,99,81,Apparel
+451,Product J,50,34,Electronics
+452,Product K,-158,57,Electronics
+453,Product L,-197,85,Electronics
+454,Product M,221,26,Apparel
+455,Product N,222,48,Electronics
+456,Product O,197,94,Electronics
+457,Product P,290,27,Apparel
+458,Product Q,197,72,Apparel
+459,Product R,117,36,Electronics
+460,Product S,294,69,Apparel
+461,Product T,139,71,Apparel
+462,Product U,233,81,Apparel
+463,Product V,294,97,Home & Kitchen
+464,Product W,276,13,Home & Kitchen
+465,Product X,172,22,Apparel
+466,Product Y,250,60,Apparel
+467,Product Z,166,43,Home & Kitchen
+468,Product A,148,70,Home & Kitchen
+469,Product B,280,26,Electronics
+470,Product C,235,36,Home & Kitchen
+471,Product D,217,15,Home & Kitchen
+472,Product E,112,94,Electronics
+473,Product F,158,61,Home & Kitchen
+474,Product G,159,88,Home & Kitchen
+475,Product H,58,28,Apparel
+476,Product I,56,13,Apparel
+477,Product J,155,19,Electronics
+478,Product K,282,80,Electronics
+479,Product L,150,57,Home & Kitchen
+480,Product M,137,95,Electronics
+481,Product N,94,56,Home & Kitchen
+482,Product O,174,45,Home & Kitchen
+483,Product P,289,31,Home & Kitchen
+484,Product Q,283,93,Electronics
+485,Product R,91,43,Apparel
+486,Product S,295,34,Home & Kitchen
+487,Product T,132,84,Electronics
+488,Product U,61,36,Electronics
+489,Product V,101,42,Apparel
+490,Product W,157,53,Home & Kitchen
+491,Product X,179,43,Electronics
+492,Product Y,289,86,Home & Kitchen
+493,Product Z,106,24,Apparel
+494,Product A,96,96,Home & Kitchen
+495,Product B,98,47,Electronics
+496,Product C,101,78,Electronics
+497,Product D,214,83,Electronics
+498,Product E,297,16,Home & Kitchen
+499,Product F,260,70,Electronics
+500,Product G,180,91,Electronics

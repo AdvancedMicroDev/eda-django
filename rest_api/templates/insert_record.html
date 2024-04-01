@@ -1,0 +1,32 @@
+<!-- templates/insert_record.html -->
+{% extends 'base.html' %}
+
+{% block title %}Insert Record{% endblock %}
+
+{% block content %}
+    <h1>Insert Record</h1>
+    <form method="post" action=record-inserted>
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="id">id:</label>
+            <input type="number" id="id" name="id" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="price">Price:</label>
+            <input type="number" id="price" name="price" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="quantity">Quatity:</label>
+            <input type="number" id="quantity" name="quantity" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="category">Category:</label>
+            <textarea id="category" name="category" class="form-control"></textarea>
+        </div>
+        <button type="submit" class="btn btn-success">Insert</button>
+    </form>
+{% endblock %}
