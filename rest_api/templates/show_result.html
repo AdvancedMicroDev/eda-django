@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}Filter Records{% endblock %}
+
+{% block content %}
+    <!-- Display filtered records -->
+    <h1>Filtered Records</h1>
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in records_data %}
+                <tr>
+                    <td>{{ record.name }}</td>
+                    <td>{{ record.price }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

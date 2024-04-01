@@ -1,0 +1,30 @@
+<!-- templates/get_records.html -->
+{% extends 'base.html' %}
+
+{% block title %}Get Records{% endblock %}
+
+{% block content %}
+    <h1>Get Records</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>name</th>
+                <th>price</th>
+                <th>quantity</th>
+                <th>category</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in records %}
+                <tr>
+                    <td>{{ record.id }}</td>
+                    <td>{{ record.name }}</td>
+                    <td>{{ record.price }}</td>
+                    <td>{{ record.quantity }}</td>
+                    <td>{{ record.category }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
